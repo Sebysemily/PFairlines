@@ -1,0 +1,8 @@
+# ninja log v6
+9	1186	7557671131055021	CMakeFiles/teo_proyeto_final.dir/main.cpp.obj	39358db2cf3946a8
+21	1072	7557671131190444	CMakeFiles/teo_proyeto_final.dir/Vuelos.cpp.obj	a78ca6f86d0f949
+1186	1369	7557671142828449	teo_proyeto_final.exe	d4c82ab394776e80
+3	285	7557671193249778	build.ninja	300038fc64574cec
+16	698	7557671193793972	CMakeFiles/teo_proyeto_final.dir/Vuelos.cpp.obj	af4c0a862f10e173
+8	806	7557671193712589	CMakeFiles/teo_proyeto_final.dir/main.cpp.obj	722dea76b8fde239
+807	1002	7557671201692830	teo_proyeto_final.exe	d4c82ab394776e80
